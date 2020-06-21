@@ -12,6 +12,8 @@ One hot encoding to handle categorical variables (we have 2 categorical variable
 
 Look for the class Imbalance- used yellowbrick library for the same
 
+Splitting the dataset into Train & Test
+
 Build a decision tree and a random forest classifier
 
 Feature Importance & Evaluation Metrics using ROC curve
